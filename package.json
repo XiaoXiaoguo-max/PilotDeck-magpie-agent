@@ -17,6 +17,14 @@
     "llm-gateway"
   ],
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XiaoXiaoguo-max/PilotDeck-magpie-agent.git"
+  },
+  "bugs": {
+    "url": "https://github.com/XiaoXiaoguo-max/PilotDeck-magpie-agent/issues"
+  },
+  "homepage": "https://github.com/XiaoXiaoguo-max/PilotDeck-magpie-agent#readme",
   "scripts": {
     "test": "node --test"
   },
